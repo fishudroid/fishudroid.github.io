@@ -22,7 +22,7 @@
       link: "https://github.com/fishudroid", icon: github
     },
     {
-      link: "https://discord.gg/w7pU4HuxQt", icon: discord
+      link: "https://discord.gg/6fqnxrDKbj", icon: discord
     }, 
     {
       link: "https://www.facebook.com/Ducky.LS.vn", icon: facebook
