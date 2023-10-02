@@ -25,7 +25,7 @@
       link: "https://discord.gg/6fqnxrDKbj", icon: discord
     }, 
     {
-      link: "https://www.facebook.com/Ducky.LS.vn", icon: facebook
+      link: "https://www.facebook.com/fishu.the.magical.fish", icon: facebook
     },
     {
       link: "https://www.twitch.tv/fishuvn", icon: twitch
